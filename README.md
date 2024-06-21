@@ -13,7 +13,7 @@
 
 ## 팀원
 - [김서현](https://github.com/akrxso)
-- 박지윤
+- [박지윤](https://github.com/zzizi6)
 
 ## 실행화면
 <img width="468" alt="멘토화면" src="https://github.com/zzizi6/CoTalk/assets/130573661/2a640806-d8ec-44c3-804f-e854638b4d29" width="5" height="450">
