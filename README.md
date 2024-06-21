@@ -1,8 +1,5 @@
 <div align = "center"> <h1> Co-Talk ! </h1>  </div>
- <p align="center"> 3-2 네트워크프로그래밍 기말 프로젝트 <br> 
-
-
-</p>
+ <p align="center"> 3-2 네트워크프로그래밍 기말 프로젝트 </p>
 
 
 
@@ -27,9 +24,9 @@
 <img alt="멘티채팅방" src="https://github.com/zzizi6/CoTalk/assets/130573661/f6fb373c-136b-4f68-802f-40c37a49f5b9" width="200" height="330">
 <img alt="그림판" src="https://github.com/zzizi6/CoTalk/assets/130573661/f265a87e-213b-4c4d-a21f-e418e9f3d0b3" width="200" height="330">
 
-
 ## 개발 환경
 - ![Windows](https://img.shields.io/badge/OS-Windows-blue)
+- Mac OS ![Mac OS](https://img.icons8.com/color/20/000000/mac-os.png)
 
 ## 개발 도구
 - ![Eclipse](https://img.shields.io/badge/IDE-Eclipse-blue?logo=Eclipse)
