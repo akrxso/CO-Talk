@@ -1,5 +1,4 @@
-<div align = "center"> <h1> Co-Talk <img width="25" alt="greenboogieboogie" src="https://github.com/zzizi6/sublindway_A/assets/103871252/1261bc77-4362-42be-ab6f-c132f0e4b9bc">
- </h1>  </div>
+<div align = "center"> <h1> Co-Talk ! </h1>  </div>
  <p> 3-2 네트워크프로그래밍 기말 프로젝트 </p>
 
 
