@@ -1,5 +1,5 @@
 <div align = "center"> <h1> Co-Talk ! </h1>  </div>
- <p align="center"> 3-2 네트워크프로그래밍 기말 프로젝트 </p>
+ <p align="center"> 3-2 한성대 네트워크프로그래밍 기말 프로젝트 </p>
 
 
 
