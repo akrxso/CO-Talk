@@ -16,7 +16,7 @@
 - 박지윤
 
 ## 실행화면
-<img width="468" alt="멘토화면" src="https://github.com/zzizi6/CoTalk/assets/130573661/2a640806-d8ec-44c3-804f-e854638b4d29" width="70" height="70">
+<img width="468" alt="멘토화면" src="https://github.com/zzizi6/CoTalk/assets/130573661/2a640806-d8ec-44c3-804f-e854638b4d29" width="50" height="70">
 <img width="512" alt="멘티화면" src="https://github.com/zzizi6/CoTalk/assets/130573661/066e1650-91ac-4d76-be79-615f4ebadb1d">
 <img width="468" alt="서버" src="https://github.com/zzizi6/CoTalk/assets/130573661/167512e9-de47-459f-b75c-e445131bd6f5">
 <img width="512" alt="멘토채팅방" src="https://github.com/zzizi6/CoTalk/assets/130573661/ee62d12b-df90-4408-9fdb-1a8a024c3121">
