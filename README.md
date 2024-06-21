@@ -1,5 +1,7 @@
 <div align = "center"> <h1> Co-Talk ! </h1>  </div>
- <p align="center"> 3-2 네트워크프로그래밍 기말 프로젝트 <br> ![image](https://github.com/zzizi6/CoTalk/assets/130573661/b0070edd-a15a-4fd6-b024-74428caf6a80)
+ <p align="center"> 3-2 네트워크프로그래밍 기말 프로젝트 <br> ![image]()
+  <img src="https://github.com/zzizi6/CoTalk/assets/130573661/b0070edd-a15a-4fd6-b024-74428caf6a80" >
+
 </p>
 
 
