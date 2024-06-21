@@ -26,7 +26,7 @@
 
 ## 개발 환경
 - ![Windows](https://img.shields.io/badge/OS-Windows-blue)
-- ![Mac OS](https://img.icons8.com/color/20/000000/mac-os.png)
+- ![Mac OS](https://img.shields.io/badge/OS-Mac%20OS-brightgreen)
 
 ## 개발 도구
 - ![Eclipse](https://img.shields.io/badge/IDE-Eclipse-blue?logo=Eclipse)
